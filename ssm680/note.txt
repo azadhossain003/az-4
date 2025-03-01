@@ -1,0 +1,28 @@
+
+html
+
+version-html5-
+
+version control system-github
+
+project
+folder-name->rel, daraz-darazwebsite, space
+file-index.html, abot.html, contact.html, css, images,font
+coding-
+editor-
+template-
+html-tag element attribute- letter, word, sentence-grammar-syntax
+
+
+<!doctype html>
+<html>
+
+<head>
+    link/support- not vis...
+</head>
+<body>
+   content- vis...
+</body>
+
+
+</html>
